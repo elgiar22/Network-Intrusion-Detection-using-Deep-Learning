@@ -248,10 +248,11 @@ The script will:
 - **RAM:** 16 GB
 - **Framework:** TensorFlow 2.10.0 with CUDA 11.x
 
-Contact Information
+## Contact Information
 
-Ahmed Elgiar
-Student ID: 2023017870
-Email: ahmedwaelgiar@gmail.com
-Phone: +20 109 691 0575
+### Ahmed Elgiar
+
+- **Student ID:** 2023017870
+- **Phone:** +20 109 691 0575
+- **Email:** your-email@example.com
 ---
