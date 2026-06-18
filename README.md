@@ -254,5 +254,6 @@ The script will:
 
 - **Student ID:** 2023017870
 - **Phone:** +20 109 691 0575
-- **Email:** your-email@example.com
+- **Email:** ahmedwaelgiar@gmail.com
+- 
 ---
